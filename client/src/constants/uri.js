@@ -1,1 +1,2 @@
+//Base_URL fo the App
 export const SERVER_URL = 'http://10.0.2.2:3000';
