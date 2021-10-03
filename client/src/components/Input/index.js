@@ -1,3 +1,4 @@
+//This project belong to AbdeMirza
 import React from 'react';
 import {View, Text, TextInput, TouchableWithoutFeedback} from 'react-native';
 import colors from '../../assets/theme/colors';
